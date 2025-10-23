@@ -6,7 +6,7 @@ This repository contains reproducible components of the SARSA-FIS Framework for 
 SARSA-FIS-Sustainable-Trading-Framework/
 │
 ├── data/
-│   ├── EURUSD_M15_Data_History_Raw.xlsx
+│   ├── EURUSD_M15_Data_History_Raw.csv
 │   ├── EURUSD_Data_Historical_Treated.xlsx
 │   └── README.md
 │
